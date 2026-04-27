@@ -16,6 +16,7 @@ The platform follows a modern DevOps workflow:
 
 **Developer → GitHub → CI/CD Pipeline → Docker → Container Registry (ECR) → ArgoCD → AWS EKS → Monitoring**
 
+
 ---
 
 ## 🧩 Microservices Architecture
