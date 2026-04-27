@@ -6,6 +6,7 @@ Deploy the default setup of Online Boutique:
 ```sh
 helm upgrade onlineboutique oci://us-docker.pkg.dev/online-boutique-ci/charts/onlineboutique \
     --install
+
 ```
 
 Deploy advanced scenario of Online Boutique:
