@@ -1,8 +1,8 @@
-# Helm chart for Online Boutique
+# Helm chart 
 
 
 
-Deploy the default setup of Online Boutique:
+Deploy the default setup  for this project 
 ```sh
 helm upgrade onlineboutique oci://us-docker.pkg.dev/online-boutique-ci/charts/onlineboutique \
     --install
